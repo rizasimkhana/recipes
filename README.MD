@@ -86,5 +86,13 @@ API documentation is available through the Postman collection:
 
 The server is deployed on Render: [Render Deployment URL](https://recipes-me.onrender.com/api/recipes)
 
+# Note
+
+suppose if you bad gateway 502 try again after a minute reload the api sometimes it happens 
+
+check network connection 
+
+i uploaded  required screenshot images under recipes db images
+
 ## License
 This project is licensed under the MIT License.
